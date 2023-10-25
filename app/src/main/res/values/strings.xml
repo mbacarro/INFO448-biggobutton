@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">biggobutton</string>
+    <string name="button_text">Push Me!</string>
+</resources>
