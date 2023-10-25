@@ -9,11 +9,11 @@
 
     <style name="Theme.Biggobutton" parent="Base.Theme.Biggobutton" />
     <style name="ButtonStyle">
-        <item name="android:background">@color/green</item>
+        <item name="android:backgroundTint">@color/green</item>
         <item name="android:textColor">@color/red</item>
         <item name="android:textSize">40sp</item>
         <item name="android:textStyle">italic</item>
-        <item name="android:layout_width">match_parent</item>
-        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_width">0dp</item>
     </style>
 </resources>
